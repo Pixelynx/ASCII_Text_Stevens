@@ -1,0 +1,15 @@
+{
+  "name": "ascii_text",
+  "version": "1.0.0",
+  "description": "ASCII Text Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "T'Keya Stevens",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.2.1",
+    "prompt": "^1.0.0"
+  }
+}
