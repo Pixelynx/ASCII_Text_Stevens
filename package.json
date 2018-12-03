@@ -4,6 +4,7 @@
   "description": "ASCII Text Assignment",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "T'Keya Stevens",
@@ -11,5 +12,8 @@
   "dependencies": {
     "figlet": "^1.2.1",
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
   }
 }
